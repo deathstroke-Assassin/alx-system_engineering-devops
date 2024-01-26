@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 # true end
-pkill -f -15 7-highlander
+
+pkill -f -SIGKILL 7-highlander
