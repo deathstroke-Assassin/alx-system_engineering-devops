@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 #pids
 
-ps -u
+ps -u -a -x -f
