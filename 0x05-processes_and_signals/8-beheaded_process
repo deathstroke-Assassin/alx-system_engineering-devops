@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-#true end
-pkill -15 7-highlander
+# true end
+pkill -f -15 7-highlander
