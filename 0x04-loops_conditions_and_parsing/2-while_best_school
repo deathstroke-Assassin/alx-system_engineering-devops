@@ -1,7 +1,10 @@
 #!/usr/bin/env bash
 # print best school
 
-for _ in {1..10}
+ndex=0
+
+while [ $index -lt 10 ]
 do
-	echo "Best School"
-done
+	  echo "Best School"
+	    ((index++))
+    done
